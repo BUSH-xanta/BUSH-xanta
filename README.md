@@ -107,4 +107,4 @@ Hands-on labs for web and API security.
 
 ## Goal
 
-Grow into a strong Security Engineer with focus on penetration testing and infrastructure security.
+Grow as an Information Security specialist focused on penetration testing and Red Team. Long-term focus: adversary emulation, infrastructure security assessment, vulnerability research, and practical attack-defense understanding.
