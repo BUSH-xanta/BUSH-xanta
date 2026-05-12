@@ -12,8 +12,6 @@
 
 Infrastructure-oriented security specialist with hands-on experience in Linux, networking, server environments, and web application analysis.
 
-Currently working as a **Junior System Engineer at Selectel** and developing practical skills in:
-
 - penetration testing
 - API security
 - vulnerability assessment
